@@ -2,9 +2,13 @@
 <p align="center">Student</p>
 
 ## Education
-![Education](https://cardivo.vercel.app/api?name=SMKN%201%20Pedan&description=Major%3A%20Software%20and%20Game%20Development%20%28PPLG%29&image=https://github.com/ndianrhdyh/ndianrhdyh/raw/main/smkn1pedan.png&backgroundColor=%231a1b27&nameColor=%23ffffff&descriptionColor=%23ffffff&titleColor=%23ffffff&descColor=%23ffffff&theme=tokyonight)
-
-
+![Education](https://cardivo.vercel.app/api
+?name=SMKN%201%20Pedan
+&description=Major%3A%20Software%20and%20Game%20Development%20(PPLG)
+&image=https://raw.githubusercontent.com/ndianrhdyh/ndianrhdyh/main/smkn1pedan.png
+&backgroundColor=%231a1b27
+&textColor=%23ffffff
+&theme=midnight)
 
 
 ## GitHub Stats
