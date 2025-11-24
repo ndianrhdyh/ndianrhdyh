@@ -7,7 +7,8 @@
 
 
 ## GitHub Stats
-![Stats](https://github-readme-stats.vercel.app/api?username=ndianrhdyh&show_icons=true&hide_title=true&bg_color=30,00d2ff,3a47d5&text_color=ffffff&title_color=ffffff&icon_color=ffffff&hide_border=true)
+![snake gif](https://github.com/ndianrhdyh/ndianrhdyh/blob/output/snake.svg)
+
 
 
 
