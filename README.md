@@ -11,14 +11,20 @@
 ## Education 
 <div align="center">
 
-  <img src="smkn1pedan.png" width="140" alt="SMKN 1 Pedan Logo">
+  <!-- Logo Sekolah -->
+  <img src="smkn1pedan.png" width="120" style="border-radius: 50%; margin-bottom: 10px;" />
 
-  <br><br>
+  <!-- Judul -->
+  <h3 style="margin: 5px 0;">Education</h3>
 
-  **SMK Negeri 1 Pedan**  
-  *Software and Game Development (PPLG)*  
+  <!-- Isi -->
+  <p>
+    <strong>SMK Negeri 1 Pedan</strong><br>
+    <i>Software and Game Development (PPLG)</i>
+  </p>
 
 </div>
+
 
 
 
