@@ -9,7 +9,12 @@
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ndianrhdyh&layout=compact&theme=tokyonight&hide_title=true)
 
 ## 🎓 Education 
-![Education](https://cardivo.vercel.app/api?name=SMKN%201%20Pedan&description=Major%3A%20Software%20and%20Game%20Development%20%28PPLG%29&image=https://avatars.githubusercontent.com/u/0?v=4&backgroundColor=%231a1b27&textColor=%23ffffff&theme=tokyonight)
+<div align="center">
+  <img src="smkn1pedan.jpeg" width="120" style="border-radius: 10px;">
+  <h3>SMK Negeri 1 Pedan</h3>
+  <p><i>Software and Game Development (PPLG)</i></p>
+</div>
+
 
 
 
