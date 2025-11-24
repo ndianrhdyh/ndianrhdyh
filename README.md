@@ -9,7 +9,7 @@
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ndianrhdyh&layout=compact&theme=tokyonight&hide_title=true)
 
 ## Education 
-![Education](https://cardivo.vercel.app/api?name=SMKN%201%20Pedan&description=Major%3A%20Software%20and%20Game%20Development%20%28PPLG%29&url=PASTE-LINK-RAW-DI-SINI&backgroundColor=%231a1b27&textColor=%23ffffff&theme=tokyonight)
+![Education](https://cardivo.vercel.app/api?name=SMKN%201%20Pedan&description=Major%3A%20Software%20and%20Game%20Development%20%28PPLG%29&image=https://avatars.githubusercontent.com/u/0?v=4&backgroundColor=%231a1b27&textColor=%23ffffff&theme=tokyonight)  
 
 
 
