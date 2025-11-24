@@ -7,10 +7,7 @@
 
 
 ## GitHub Stats
-![GitHub Streak](https://streak-stats.demolab.com?user=ndianrhdyh&theme=tokyonight&hide_border=true)
-
-
-
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ndianrhdyh&show_icons=true&theme=tokyonight&hide_title=true)
 
 
 ## Most Used Languages
