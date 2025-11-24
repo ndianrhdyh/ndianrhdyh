@@ -7,7 +7,8 @@
 
 
 ## GitHub Stats
-![3D Stats](https://github-readme-stats.vercel.app/api?username=ndianrhdyh&show_icons=true&bg_color=20,0f0c29,302b63,24243e&title_color=ffffff&text_color=ffffff&icon_color=00eaff&hide_border=true)
+![Stats](https://github-readme-stats.vercel.app/api?username=ndianrhdyh&show_icons=true&hide_title=true&bg_color=30,00d2ff,3a47d5&text_color=ffffff&title_color=ffffff&icon_color=ffffff&hide_border=true)
+
 
 
 
