@@ -8,12 +8,18 @@
 ## Most Used Languages
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ndianrhdyh&layout=compact&theme=tokyonight&hide_title=true)
 
-## 🎓 Education 
+## Education 
 <div align="center">
-  <img src="smkn1pedan.jpeg" width="120" style="border-radius: 10px;">
-  <h3>SMK Negeri 1 Pedan</h3>
-  <p><i>Software and Game Development (PPLG)</i></p>
+
+  <img src="smkn1pedan.png" width="140" alt="SMKN 1 Pedan Logo">
+
+  <br><br>
+
+  **SMK Negeri 1 Pedan**  
+  *Software and Game Development (PPLG)*  
+
 </div>
+
 
 
 
