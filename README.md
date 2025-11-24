@@ -7,7 +7,8 @@
 
 
 ## GitHub Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ndianrhdyh&show_icons=true&theme=tokyonight&hide_title=true)
+![3D Stats](https://github-readme-stats.vercel.app/api?username=ndianrhdyh&show_icons=true&bg_color=20,0f0c29,302b63,24243e&title_color=ffffff&text_color=ffffff&icon_color=00eaff&hide_border=true)
+
 
 
 ## Most Used Languages
