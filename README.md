@@ -7,7 +7,7 @@
 
 
 ## GitHub Stats
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%23ffffff&size=25&center=true&vCenter=true&width=500&lines=Nadia+Nur+Hidayah;Student+of+PPLG;Welcome+to+my+GitHub!)](https://git.io/typing-svg)
+![GitHub Streak](https://streak-stats.demolab.com?user=ndianrhdyh&theme=tokyonight&hide_border=true)
 
 
 
