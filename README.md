@@ -9,22 +9,7 @@
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ndianrhdyh&layout=compact&theme=tokyonight&hide_title=true)
 
 ## Education 
-<div align="center">
-
-  <!-- Logo Sekolah -->
-  <img src="smkn1pedan.png" width="120" style="border-radius: 50%; margin-bottom: 10px;" />
-
-  <!-- Judul -->
-  <h3 style="margin: 5px 0;">Education</h3>
-
-  <!-- Isi -->
-  <p>
-    <strong>SMK Negeri 1 Pedan</strong><br>
-    <i>Software and Game Development (PPLG)</i>
-  </p>
-
-</div>
-
+![Education](https://cardivo.vercel.app/api?name=SMKN%201%20Pedan&description=Major%3A%20Software%20and%20Game%20Development%20%28PPLG%29&image=/mnt/data/smkn1pedan.png&backgroundColor=%231a1b27&textColor=%23ffffff&theme=tokyonight)
 
 
 
