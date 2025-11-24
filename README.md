@@ -1,6 +1,10 @@
 <h1 align="center">Hi, I'm Nadia 👋</h1>
 <p align="center">Student</p>
 
+## Education
+- School: **SMKN 1 Pedan**
+- Major: **Software and Game Development (PPLG)**
+
 ## GitHub Stats
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ndianrhdyh&show_icons=true&theme=tokyonight&hide_title=true)
 
