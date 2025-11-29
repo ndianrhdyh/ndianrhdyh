@@ -10,10 +10,7 @@
 ---
 
 ## GitHub Stats
-
-![Nadia Stats](https://github-readme-stats.vercel.app/api?username=ndianrhdyh&show_icons=true&theme=tokyonight&hide_title=false&border_radius=10)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ndianrhdyh&layout=compact&theme=tokyonight&border_radius=10)
+<img src="https://github-readme-stats.vercel.app/api?username=ndianrhdyh&show_icons=true&theme=tokyonight&hide_title=true" />
 
 ## Most Used Languages
 
