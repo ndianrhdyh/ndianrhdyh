@@ -1,4 +1,4 @@
-<h1 align="center">✨ Hi, I'm Nadia ✨</h1>
+<h2 align="center">✨ Hi, I'm Nadia ✨</h2>
 <p align="center"><strong>Student </strong></p>
 
 ---
