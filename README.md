@@ -10,7 +10,9 @@
 ---
 
 ## GitHub Stats
-<img src="https://github-readme-stats.vercel.app/api?username=ndianrhdyh&show_icons=true&theme=tokyonight&hide_title=true" />
+<p align="center">
+  <img src="https://img.shields.io/badge/Total%20Commits-blueviolet?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Projects%20Active-5-1a1b27?style=for-the-badge" />
 
 ## Most Used Languages
 
