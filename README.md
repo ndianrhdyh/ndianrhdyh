@@ -5,7 +5,8 @@
 
 ## Education
 
-![Education](https://cardivo.vercel.app/api?name=SMKN%201%20Pedan&description=Major%3A%20Software%20and%20Game%20Development%20%28PPLG%29&image=https://github.com/ndianrhdyh/ndianrhdyh/raw/main/smkn1pedan.png&backgroundColor=%230a192f&nameColor=%23ffffff&descriptionColor=%2364ffda&titleColor=%2364ffda&descColor=%23ffffff&theme=tokyonight)
+![Education](https://cardivo.vercel.app/api?name=SMKN%201%20Pedan&description=Major%3A%20Software%20and%20Game%20Development%20%28PPLG%29&image=https://github.com/ndianrhdyh/ndianrhdyh/raw/main/smkn1pedan.png&backgroundColor=%23ffffff&nameColor=%23000000&descriptionColor=%23000000&titleColor=%23000000&descColor=%23000000&theme=light)
+
 
 
 ## Most Used Languages
