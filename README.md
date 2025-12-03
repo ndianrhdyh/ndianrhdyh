@@ -1,5 +1,4 @@
 <h2 align="center"> Hi, I'm Nadia </h2>
-<p align="center"><strong>Student </strong></p>
 
 ---
 
@@ -9,9 +8,16 @@
 
 
 
-## Most Used Languages
+## <span style="color:#7aa2f7;">Most Used Languages</span>
 
-![Languages](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ndianrhdyh&theme=tokyonight)
+<div align="center" style="margin-top: 14px;">
+  <img 
+    src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ndianrhdyh&theme=tokyonight" 
+    width="520"
+    style="border-radius: 14px; box-shadow: 0 5px 18px rgba(0,0,0,0.25);" 
+  />
+</div>
+
 
 
 
