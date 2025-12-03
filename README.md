@@ -14,13 +14,8 @@
 ![Languages](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ndianrhdyh&theme=tokyonight)
 
 
+![glowbar](https://github-readme-stats.vercel.app/api/top-langs/?username=ndianrhdyh&layout=compact&theme=radical&hide_border=true)
 
-
-![repo-lang](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ndianrhdyh&theme=2077)
-
-![commit-lang](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=ndianrhdyh&theme=2077)
-
-</p>
 
 
 
