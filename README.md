@@ -15,4 +15,23 @@
 </div>
 
 
-![Nadia's GitHub stats](https://github-readme-stats.vercel.app/api?username=ndianrhdyh&show_icons=true&bg_color=00000000)
+<div align="center">
+
+<!-- Card container -->
+<div style="
+  width: 380px;
+  padding: 18px 22px;
+  border-radius: 14px;
+  border: 1px solid #2e2e2e;
+  background: #0d1117;
+">
+
+<img
+  src="https://github-readme-stats.vercel.app/api/top-langs/?username=ndianrhdyh&layout=compact&theme=tokyonight&hide_title=true&langs_count=8&border_radius=10"
+  style="border-radius: 10px; width: 100%;"
+/>
+
+</div>
+
+</div>
+
