@@ -37,6 +37,25 @@
 
 
 
+<div align="center">
+
+<img
+  src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=ndianrhdyh&theme=tokyonight"
+  width="500px" />
+
+<br>
+
+<img
+  src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ndianrhdyh&theme=tokyonight"
+  width="500px" />
+
+<br>
+
+<img
+  src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=ndianrhdyh&theme=tokyonight"
+  width="500px" />
+
+</div>
 
 
 
