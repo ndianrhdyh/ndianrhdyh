@@ -14,11 +14,7 @@
 ![Languages](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ndianrhdyh&theme=tokyonight)
 
 
-avaScript — **███████████░░** 72%  
-HTML — **███████░░░░░░** 46%  
-CSS — **█████░░░░░░░░░** 34%  
-PHP — **████░░░░░░░░░░** 21%  
-Other — **██░░░░░░░░░░░** 10%  
+
 
 
 
