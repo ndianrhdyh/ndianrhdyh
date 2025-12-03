@@ -17,21 +17,11 @@
 
 <div align="center">
 
-<!-- Card container -->
-<div style="
-  width: 380px;
-  padding: 18px 22px;
-  border-radius: 14px;
-  border: 1px solid #2e2e2e;
-  background: #0d1117;
-">
-
-<img
-  src="https://github-readme-stats.vercel.app/api/top-langs/?username=ndianrhdyh&layout=compact&theme=tokyonight&hide_title=true&langs_count=8&border_radius=10"
-  style="border-radius: 10px; width: 100%;"
+<img 
+  src="https://github-readme-stats-ruby-one.vercel.app/api/top-langs/?username=ndianrhdyh&layout=compact&hide_title=true&theme=transparent&border_radius=14"
+  width="380px"
 />
 
 </div>
 
-</div>
 
