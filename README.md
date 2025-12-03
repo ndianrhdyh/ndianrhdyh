@@ -9,7 +9,6 @@
 
 <table>
 <tr>
-<td><img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=ndianrhdyh&theme=transparent" width="400px" /></td>
 <td><img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ndianrhdyh&theme=transparent" width="400px" /></td>
 </tr>
 </table>
