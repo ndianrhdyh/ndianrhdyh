@@ -35,25 +35,70 @@
 </div>
 
 
+<div align="center"> <br> <!-- Kartu 1 --> <div style=" width: 520px; padding: 25px; margin-bottom: 25px; border-radius: 18px; background: rgba(255,255,255,0.06); backdrop-filter: blur(10px); border: 1px solid rgba(255,255,255,0.15); box-shadow: 0 8px 25px rgba(0,0,0,0.25); "> <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=ndianrhdyh&theme=transparent" width="100%" /> </div> <!-- Garis Glow --> <div style=" width: 60%; height: 2px; margin: 20px auto; background: linear-gradient(90deg, #00f2ff, #8b5cf6); border-radius: 50px; "></div> <!-- Kartu 2 --> <div style=" width: 520px; padding: 25px; margin-bottom: 25px; border-radius: 18px; background: rgba(255,255,255,0.06); backdrop-filter: blur(10px); border: 1px solid rgba(255,255,255,0.15); box-shadow: 0 8px 25px rgba(0,0,0,0.25); "> <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ndianrhdyh&theme=transparent" width="100%" /> </div> <!-- Garis Glow --> <div style=" width: 60%; height: 2px; margin: 20px auto; background: linear-gradient(90deg, #00f2ff, #8b5cf6); border-radius: 50px; "></div> <!-- Kartu 3 --> <div style=" width: 520px; padding: 25px; margin-bottom: 25px; border-radius: 18px; background: rgba(255,255,255,0.06); backdrop-filter: blur(10px); border: 1px solid rgba(255,255,255,0.15); box-shadow: 0 8px 25px rgba(0,0,0,0.25); "> <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=ndianrhdyh&theme=transparent" width="100%" /> </div> </div>
 
+
+
+## GitHub Overview
 
 <div align="center">
 
-<img
-  src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=ndianrhdyh&theme=tokyonight"
-  width="500px" />
+<div style="border-radius: 12px; padding: 25px; background: linear-gradient(135deg, #151515, #2a2a2a); width: 90%;">
+
+<img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=ndianrhdyh&theme=transparent" width="480px" />
+
+<hr style="border: none; height: 1px; background: #444;">
+
+<img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ndianrhdyh&theme=transparent" width="480px" />
+
+<hr style="border: none; height: 1px; background: #444;">
+
+<img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=ndianrhdyh&theme=transparent" width="480px" />
+
+</div>
+
+</div>
+
+
+
+
+## GitHub Overview
+
+<div align="center">
+
+<table>
+<tr>
+<td><img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=ndianrhdyh&theme=transparent" width="400px" /></td>
+<td><img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ndianrhdyh&theme=transparent" width="400px" /></td>
+</tr>
+</table>
 
 <br>
 
-<img
-  src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ndianrhdyh&theme=tokyonight"
-  width="500px" />
+<img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=ndianrhdyh&theme=transparent" width="820px" />
 
-<br>
+</div>
 
-<img
-  src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=ndianrhdyh&theme=tokyonight"
-  width="500px" />
+
+
+
+## GitHub Overview
+
+<div align="center">
+
+<div style="padding: 20px; border-radius: 18px; backdrop-filter: blur(12px); background: rgba(255,255,255,0.05); width: 90%;">
+
+<img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=ndianrhdyh&theme=transparent" width="500px" />
+
+<br><br>
+
+<img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ndianrhdyh&theme=transparent" width="500px" />
+
+<br><br>
+
+<img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=ndianrhdyh&theme=transparent" width="500px" />
+
+</div>
 
 </div>
 
