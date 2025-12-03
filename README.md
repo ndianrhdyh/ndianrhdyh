@@ -9,28 +9,31 @@
 ![Education](https://cardivo.vercel.app/api?name=SMKN%201%20Pedan&description=Major%3A%20Software%20and%20Game%20Development%20%28PPLG%29&image=https://github.com/ndianrhdyh/ndianrhdyh/raw/main/smkn1pedan.png&backgroundColor=%23ffffff&nameColor=%23000000&descriptionColor=%23000000&titleColor=%23000000&descColor=%23000000&theme=light)
 
 
-## 📊 Language Usage Dashboard
+## 🚀 GitHub Overview
 
+<div align="center">
 
-┌────────────────────────────────────────────┐
-│          LANGUAGE USAGE OVERVIEW            │
-└────────────────────────────────────────────┘
+### My Stats 
+<img
+  src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=ndianrhdyh&theme=transparent"
+  width="500px" />
 
+---
 
-**JavaScript**  
-▰▰▰▰▰▰▰▰▰▰▱▱ **72%**
+### 🎨 Languages Breakdown 
+<img
+  src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ndianrhdyh&theme=transparent"
+  width="500px" />
 
-**HTML**  
-▰▰▰▰▰▰▱▱▱▱▱▱ **46%**
+---
 
-**CSS**  
-▰▰▰▰▱▱▱▱▱▱▱▱ **34%**
+### 📈 Contribution Graph 
+<img
+  src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=ndianrhdyh&theme=transparent"
+  width="500px" />
 
-**PHP**  
-▰▰▰▱▱▱▱▱▱▱▱▱ **21%**
+</div>
 
-**Other**  
-▰▰▱▱▱▱▱▱▱▱▱▱ **10%**
 
 
 
