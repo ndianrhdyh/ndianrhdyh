@@ -13,10 +13,14 @@
 
 ![Languages](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ndianrhdyh&theme=tokyonight)
 
-![repos-lang](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ndianrhdyh&theme=github_dark)
 
-![commit-lang](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=ndianrhdyh&theme=github_dark)
 
+
+![repo-lang](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ndianrhdyh&theme=2077)
+
+![commit-lang](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=ndianrhdyh&theme=2077)
+
+</p>
 
 
 
