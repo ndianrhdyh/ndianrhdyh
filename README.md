@@ -1,8 +1,5 @@
 <h2 align="center"> Hi, I'm Nadia </h2>
 
-
-<br>
-
 ## GitHub Overview
 
 <div align="center">
@@ -15,13 +12,6 @@
 </div>
 
 
-<div align="center">
 
-<img 
-  src="https://github-readme-stats-ruby-one.vercel.app/api/top-langs/?username=ndianrhdyh&layout=compact&hide_title=true&theme=transparent&border_radius=14"
-  width="380px"
-/>
-
-</div>
 
 
