@@ -14,9 +14,5 @@
 </table>
 </div>
 
-## Stats
-[![ndianrhdyh GitHub stats](https://github-readme-stats.vercel.app/api?username=ndianrhdyh&show_icons=true&theme=dracula&count_private=true)]
 
-
-## Languages 
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ndianrhdyh&layout=compact&hide=css,html,handlebars)]
+![Nadia's GitHub stats](https://github-readme-stats.vercel.app/api?username=ndianrhdyh&show_icons=true&bg_color=00000000)
