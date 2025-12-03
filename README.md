@@ -14,7 +14,11 @@
 ![Languages](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ndianrhdyh&theme=tokyonight)
 
 
-![langs-strip](https://github-readme-stats.vercel.app/api/top-langs/?username=ndianrhdyh&layout=compact&hide_border=true&theme=2077)
+avaScript — **███████████░░** 72%  
+HTML — **███████░░░░░░** 46%  
+CSS — **█████░░░░░░░░░** 34%  
+PHP — **████░░░░░░░░░░** 21%  
+Other — **██░░░░░░░░░░░** 10%  
 
 
 
