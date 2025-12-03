@@ -8,13 +8,13 @@
 
 
 
-## <span style="color:#7aa2f7;">Most Used Languages</span>
+## ━━ Most Used Languages ━━
 
-<div align="center" style="margin-top: 14px;">
+<div align="center" style="margin-top: 10px;">
   <img 
     src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ndianrhdyh&theme=tokyonight" 
-    width="520"
-    style="border-radius: 14px; box-shadow: 0 5px 18px rgba(0,0,0,0.25);" 
+    width="500"
+    style="border-radius: 12px;"
   />
 </div>
 
