@@ -1,7 +1,7 @@
-<div>
-<h1> GitHub Overview </h1>
-align="center">
+<div align="center">
+  <h1>GitHub Overview</h1>
 </div>
+
 
 ## Language
 <div>
