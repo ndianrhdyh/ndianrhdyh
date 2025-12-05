@@ -1,4 +1,3 @@
----
 ## Language
 <div align="center">
 <table>
@@ -8,8 +7,8 @@
 </table>
 </div>
 
+### <div>🔥 Streak
 ---
-### 🔥 Streak
-<div align="center">
+ align="center">
 <img src="https://streak-stats.demolab.com?user=ndianrhdyh&theme=tokyonight&hide_border=true" width="500px" />
 </div>
