@@ -29,8 +29,5 @@
 <img src="https://streak-stats.demolab.com?user=ndianrhdyh&theme=tokyonight&hide_border=true" width="500px" />
 
 
-### 📊 GitHub Stats
-<img src="https://github-readme-stats.vercel.app/api?username=ndianrhdyh&show_icons=true&theme=tokyonight&hide_border=true" width="500px" />
-
 
 </div>
